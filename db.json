@@ -1,15 +1,17 @@
-{
-  "id": 1,
-  "title": "Tâche",
-  "description": "Ma tâche"
-},
-{
-  "id": 2,
-  "title": "Tâche",
-  "description": "Ma tâche"
-},
-{
-  "id": 3,
-  "title": "Tâche",
-  "description": "Ma tâche"
-},
+[
+  {
+    "id": 1,
+    "title": "Tâche",
+    "description": "Ma tâche"
+  },
+  {
+    "id": 2,
+    "title": "Tâche",
+    "description": "Ma tâche"
+  },
+  {
+    "id": 3,
+    "title": "Tâche",
+    "description": "Ma tâche"
+  }
+]
