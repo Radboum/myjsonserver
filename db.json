@@ -1,17 +1,11 @@
-[
-  {
-    "id": 1,
-    "title": "Tâche",
-    "description": "Ma tâche"
-  },
-  {
-    "id": 2,
-    "title": "Tâche",
-    "description": "Ma tâche"
-  },
-  {
-    "id": 3,
-    "title": "Tâche",
-    "description": "Ma tâche"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
