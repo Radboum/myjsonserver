@@ -3,17 +3,20 @@
     {
       "id": 1,
       "title": "Tâche",
-      "description": "Ma tâche"
+      "description": "Ma tâche",
+      "status": "UNDONE"
     },
     {
       "id": 2,
       "title": "Tâche",
-      "description": "Ma tâche"
+      "description": "Ma tâche",
+      "status": "DONE"
     },
     {
       "id": 3,
       "title": "Tâche",
-      "description": "Ma tâche"
+      "description": "Ma tâche",
+      "status": "DONE"
     }
   ]
 }
